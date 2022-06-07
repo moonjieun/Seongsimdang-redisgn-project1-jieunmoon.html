@@ -370,7 +370,7 @@ a {
 }
 .slider-wrap > .slider .content > .txt-box1 > .btn-box > p {
   width: 60%;
-  height: 50px;
+  height: 55px;
   font-weight: bold;
   background-color: #392516;
   /*     border:1px solid black; */
@@ -379,7 +379,7 @@ a {
   line-height: 50px;
   color: white;
   font-size: 1.15vw;
-  font-family: 'GmarketSansMedium';
+  font-family: "GmarketSansLight";
   margin-top: 15px;
   left: 0;
 }
@@ -390,7 +390,7 @@ a {
 }
 .slider-wrap > .slider .content > .txt-box > .btn-box > p {
   width: 28%;
-  height: 50px;
+  height: 55px;
   font-weight: bold;
   background-color: #fff;
   /*     border:1px solid black; */
@@ -401,7 +401,7 @@ a {
   font-size: 1.15vw;
   margin-top: 15px;
   left: 0;
-  font-family: 'GmarketSansMedium';
+  font-family: "GmarketSansLight";
 }
 .slider-wrap > .slider .content > .txt-box3 > .btn-box {
   cursor: pointer;
@@ -410,7 +410,7 @@ a {
 }
 .slider-wrap > .slider .content > .txt-box3 > .btn-box > p {
   width: 40%;
-  height: 50px;
+  height: 55px;
   font-weight: bold;
   background-color: #fff;
   /*     border:1px solid black; */
@@ -421,7 +421,7 @@ a {
   font-size: 1.15vw;
   margin-top: 15px;
   left: 0;
-  font-family: 'GmarketSansMedium';
+  font-family: "GmarketSansLight";
 }
 /* translateY값을 slider-wrap의 padding-top:190px하면 여백이남아서 < > 화살표가 중간에오지않음 이미지잘림 해결할방법찾기*/
 
