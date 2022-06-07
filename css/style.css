@@ -401,7 +401,7 @@ a {
   font-size: 1.15vw;
   margin-top: 15px;
   left: 0;
-  font-family: "GmarketSansLight";
+  font-family: "GmarketSansMedium";
 }
 .slider-wrap > .slider .content > .txt-box3 > .btn-box {
   cursor: pointer;
@@ -421,7 +421,7 @@ a {
   font-size: 1.15vw;
   margin-top: 15px;
   left: 0;
-  font-family: "GmarketSansLight";
+  font-family: "GmarketSansMedium";
 }
 /* translateY값을 slider-wrap의 padding-top:190px하면 여백이남아서 < > 화살표가 중간에오지않음 이미지잘림 해결할방법찾기*/
 
