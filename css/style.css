@@ -30,7 +30,6 @@
 
 html,
 body {
-  
   font-family: "MinSans-Regular";
   overflow-x: hidden;
 }
@@ -360,7 +359,7 @@ a {
   padding-bottom: 10px;
 }
 .slider-wrap > .slider .content > .txt-box3 > p {
-  font-size: 1.23vw;
+  font-size: 1.25vw;
   color: #fff;
   font-family: "GmarketSansLight";
 }
@@ -379,7 +378,7 @@ a {
   text-align: center;
   line-height: 50px;
   color: white;
-  font-size: 1.14vw;
+  font-size: 14px;
   font-family: 'GmarketSansMedium';
   margin-top: 15px;
   left: 0;
@@ -399,7 +398,7 @@ a {
   text-align: center;
   line-height: 50px;
   color: black;
-  font-size: 1.23vw;
+  font-size: 14px;
   margin-top: 15px;
   left: 0;
   font-family: 'GmarketSansMedium';
@@ -419,7 +418,7 @@ a {
   text-align: center;
   line-height: 50px;
   color: black;
-  font-size: 1.23vw;
+  font-size: 14px;
   margin-top: 15px;
   left: 0;
   font-family: 'GmarketSansMedium';
@@ -447,47 +446,10 @@ a {
   bottom: 20px;
   z-index: 9;
 }
-.slider-wrap .slick-dots li {
-  font-weight: bold;
-  font-size: .97222vw;
-  padding-left: 30px;
-  padding-right: 30px;
-  width: auto;
-  height: auto;
-  position: relative;
-  padding-bottom:25px;
-  color:white;
-}
-.slider-wrap .slick-dots li::after {
-  content: "";
-  display: block;
-  height: 2px;
-  width: 100%;
-  background-color: white;
-  position: absolute;
-  bottom: 10px;
-  left: 0;
-  background-color: rgba(0,0,0,0.1);
-}
-.slider-wrap .slick-dots li::before {
-  content: "";
-  display: block;
-  height: 2px;
-  width: 00%;
-  background-color: white;
-  position: absolute;
-  bottom: 10px;
-  left: 0;
-  transition: 3s ;
-
-}
-.slider-wrap .slick-dots li.slick-active::before{
-  width:100%;
-}
-/* .slider-wrap .slick-dots li.slick-active button:before,
+.slider-wrap .slick-dots li.slick-active button:before,
 .slider-wrap .slick-dots li button:before {
   color: white;
-} */
+}
 
 .product-box-wrap {
   width: 100%;
