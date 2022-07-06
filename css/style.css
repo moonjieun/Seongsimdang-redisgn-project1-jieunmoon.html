@@ -662,19 +662,19 @@ a {
 
 .pooter-wrap {
   width: 100%;
-  height: 210px;
+  height: 220px;
   background-color: #f8e5b6;
 }
 .pooter-box {
   margin-top: 40px;
   width: 100%;
-  height: 210px;
+  height: 220px;
   /*   border:1px solid red; */
 }
 
 .pooter-wrap > .pooter-box .box-25w {
   width: calc(100% / 3);
-  height: 210px;
+  height: 220px;
   /*   border:1px solid blue; */
   padding-top: 30px;
   padding-right: 50px;
